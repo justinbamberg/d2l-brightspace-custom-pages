@@ -9,3 +9,5 @@ The button, depending on which one you click, will run through the process.  The
 Mainly the opposite action is done with the Unenroll Demo Student.  The first action is checking to see if the user exists.  Since we are using unique user accounts, it know which student to look for.  If the user is found on the classlist, the code will process and remove the student.  The user account is not deleted, just removed from the course.  This allows the Instructor to add and remove as needed throughout the semester over and over.  This way a new user is not created everytime, just once.  
 
 The reason for this widget and page is to reduce help desk tickets for our Admins, the Instructor can now do it on their own.  
+
+<img width="397" alt="Add ZZ Student" src="https://github.com/justinbamberg/d2l-brightspace-custom-pages/blob/main/add-zzstudent.png">
